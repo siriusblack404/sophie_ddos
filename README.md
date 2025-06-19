@@ -13,8 +13,10 @@ Outil de simulation d’attaque DDoS pour apprendre les vulnérabilités réseau
 - Interface simple pour démarrer/arrête
 ## Installation
 chmod +x install_sophie.sh
-./install_sophie.sh
 
+./install_sophie.sh
+## Systeme
+linux 
 ## Avertissements légaux
 Ce projet est destiné uniquement à un usage éducatif et de recherche. Ne l’utilisez jamais contre des systèmes sans autorisation explicite.
 
