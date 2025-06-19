@@ -10,10 +10,10 @@ Outil de simulation d’attaque DDoS pour apprendre les vulnérabilités réseau
 ## Fonctionnalités
 - Simulation d’attaques par déni de service distribué (DDoS)
 - Analyse basique du trafic
-- Interface simple pour démarrer/arrêter la simulation
-
+- Interface simple pour démarrer/arrête
 ## Installation
-Instructions ici...
+chmod +x install_sophie.sh
+./install_sophie.sh
 
 ## Avertissements légaux
 Ce projet est destiné uniquement à un usage éducatif et de recherche. Ne l’utilisez jamais contre des systèmes sans autorisation explicite.
